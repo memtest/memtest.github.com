@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* NTS 20130902 JOONTOP, CHJ */
+
+body,input,textarea,select,button,table{font-family:'나눔고딕',NanumGothic,'맑은고딕','Malgun Gothic','돋움',Dotum,'굴림',Gulim,Helvetica,sans-serif}
+.nav_a{font-family:'나눔고딕',NanumGothic,'맑은고딕','Malgun Gothic','돋움',Dotum,'굴림',Gulim,Helvetica Neue Condensed,Helvetica,Sans-Serif}
+
+.thmblst_l{*padding:0}
+.thmblst_a{*padding:0 5px}
+.txtflx2_l,
+.txtflx3_l{float:left}
+.maglst_l,
+.tab_l{*float:left;*clear:right}
+.nav_l{*width:14.2%;*float:left}
+.flextab_l {*width:25%;*float:left;*clear:right}
+.ctm_l,
+.sorttab_l{*float:left;*width:33.3%;*clear:right}
